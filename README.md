@@ -46,9 +46,11 @@ Hands-on experience with data workflows, modeling, and deployment.
 ### 🏆 Certifications & Achievements  
 - Introduction to Modern AI – CISCO Networking Academy  
 - IoT with AWS – NIT Calicut  
-- Project Management – SWAYAM NPTEL  
+- Project Management – SWAYAM NPTEL
+- Introduction to MS Excel -  Simplilearn  
 - NSS Committee Member & Hackathon Participant  
-- Coordinator for Logo Competition  
+- Coordinator for Logo Competition
+  
 
 ---
 
